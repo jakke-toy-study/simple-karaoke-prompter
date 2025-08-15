@@ -1,11 +1,6 @@
-# Jakke Electron Boilerplate
+# Simple Karaoke Prompter
 
----
+노래방 자막 만드는 심플하게 만든 툴
+<img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/e3e6a662-8e3f-4725-8f9c-8a0e4031b85a" />
 
-### ENG
-It's a boilerplate which is made after suffering from sqlite bundling issue.
-Manually built from empty node project.
-
-### KOR
-Electron-forge의 개발 템플릿을 통한 앱 제작 도중 빌드과정에서 SQLite 이슈를 해결하다가 결국 실패해서 직접 만든 보일러플레이트.
-빈 node 프로젝트에서 electron, electron-forge, vite를 직접 추가하는 과정으로 제작됨.
+동네 매장 이벤트때 써야해서 급하게 만듬.
