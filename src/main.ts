@@ -17,7 +17,8 @@ app.on('ready', () => {
     isVisible: true,
     url: 'http://localhost:3000',
     localFilePath: path.join(__dirname, '../.vite/index.html'),
-    preloadScriptPath: path.join(__dirname, 'preload.js')
+    preloadScriptPath: path.join(__dirname, 'preload.js'),
+    title: 'Simple Karaoke Prompter',
   });
 
   setIPCElectronTestHandler(ipcMain);
